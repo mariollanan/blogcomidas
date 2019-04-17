@@ -4,5 +4,8 @@
 	min-height: 10rem;
 }
 .derecha {
-	text-align: left;
+	text-align:right;
+}
+.izquierda {
+	text-align: right;
 }
