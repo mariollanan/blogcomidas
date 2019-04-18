@@ -21,3 +21,10 @@ hr {
 	height: 200px !important;
 	border: 0.2em !important;
 }
+.formato {
+	text-shadow: 2px 2px 5px black;
+	font-size:4em;
+}
+.formato_1{
+	font-size: 2em;
+}
