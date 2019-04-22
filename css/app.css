@@ -25,18 +25,9 @@
 .izquierda {
 	text-align: right;
 }
-hr {
-	color: blue;
-}
-.button_menu {
-	padding-top: 0.5em !important;
-	margin-top: 0.5em !important;
-}
-.foto_com {
-	width: 200px !important;
-	height: 200px !important;
-	border: 0.2em !important;
-}
+
+
+
 .formato {
 	text-shadow: 2px 2px 5px black;
 	font-size:4em;
